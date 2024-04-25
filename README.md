@@ -2,7 +2,7 @@
 
 Welcome to Asteroids! This is a simple JavaScript-based version of the classic arcade game where you control a spaceship and shoot asteroids.
 
-# How-to-Play
+# How to Play
 
 1. Controls:
 - Use the W, A, and D keys to move the spaceship.
@@ -12,7 +12,7 @@ Welcome to Asteroids! This is a simple JavaScript-based version of the classic a
 3. Game Over:
 - The game ends when your spaceship collides with an asteroid.
 
-# Technologies-Used
+# Technologies Used
 
 - JavaScript: Game logic and interactivity.
 
