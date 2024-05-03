@@ -1,4 +1,4 @@
-﻿# Asteroid-Game
+﻿# Asteroid Game
 
 Welcome to Asteroids! This is a simple JavaScript-based version of the classic arcade game where you control a spaceship and shoot asteroids.
 
